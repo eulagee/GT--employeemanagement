@@ -1,0 +1,26 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "start": "node index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/eulagee/GT--employeemanagement"
+    },
+    "author": "eulaliegee",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/eulagee/GT--employeemanagement"
+    },
+    "homepage": "https://github.com/eulagee/GT--employeemanagement#homepage ",
+    "dependencies": {
+        "asciiart-logo": "^0.2.6",
+        "console.table": "^0.10.0",
+        "inquirer": "^8.1.2",
+        "mysql": "^2.18.1"
+    }
+}
